@@ -1,0 +1,52 @@
+
+ 
+
+.button-123345 {
+    height: 70px;
+    width: 80px;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 12px;
+    font-family: 'Open sans';
+}
+
+.para-back {
+    background-color: black;
+    height: 10vh;
+    color: white;
+    font-size: 30px;
+    font-family: 'Open sans';
+}
+
+.span-text {
+    Color: #49a6e9;
+    font-family: 'Open sans';
+}
+
+.button-1 {
+    background-color: #e0e0e0;
+}
+
+.button-2 {
+    background-color: #6fcf97;
+}
+
+.button-3 {
+    background-color: #56ccf2;
+}
+
+ .button-4 {
+    background-color: #bb6bd9;
+}
+
+
+.last-para {
+    font-size: 20px;
+    font-family: 'Open sans';
+}
+
+
+
+
+
+
